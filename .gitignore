@@ -1,0 +1,46 @@
+﻿# ==============================================================================
+# Coursera Academic Integrity & Honor Code Exclusions
+# Mengabaikan seluruh berkas kuis bertingkat, bank soal, dan kunci jawaban ujian
+# agar repositori aman untuk dipublikasikan sebagai portofolio publik.
+# ==============================================================================
+
+# Graded Quizzes, Final Exams & Assessments (Case-insensitive match patterns)
+*[Gg]raded [Qq]uiz*
+*[Gg]raded [Aa]ssessment*
+*[Gg]raded [Cc]hallenge*
+*[Mm]odule*[Cc]hallenge*
+*[Mm]odule*[Cc]hallenge*.md
+*[Cc]ourse*[Cc]hallenge*
+*[Ff]inal [Ee]xam*
+*[Pp]ractice [Qq]uiz*
+*Quiz*.md
+*quiz*.md
+*[Aa]ssignment*.md
+*[Aa]ssignments*.md
+
+# ==============================================================================
+# Operating System & Editor Artifacts
+# ==============================================================================
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.tmp
+
+# ==============================================================================
+# Course Templates & Working Prompts
+# ==============================================================================
+PROMPT_INSTRUCTION_TEMPLATE.md
+instruction.md
